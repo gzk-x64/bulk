@@ -24,9 +24,9 @@
 - To adapt the code, replacing the destination port (here `8888`)
 - That none of the ids is already used in your file (here `96`, `97`, `98`, `99`, `100`)
 
-3.2) Reboot BlueStacks 5
+## 4. Reboot BlueStacks 5
 
-3.3) Enjoy 🎉
+## 5. Enjoy 🎉
 
 ---
 
