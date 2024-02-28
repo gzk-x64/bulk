@@ -9,6 +9,7 @@ Option 2. From this repo (I downloaded v1.5.212)
 ## 2. Launch and configure HidHide program
 
 2.1) First tab: specify path to your `x360ce.exe` from which you dont's want controllers to be hidden
+
 2.2) Second tab: select controller(s) you want to hide from all other apps (Steam, ...)
 
 ## 3. Check the box "*Enable device hiding*"
