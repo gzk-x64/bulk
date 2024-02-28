@@ -12,7 +12,7 @@ Option 2. From this repo (I downloaded v1.5.212)
 
 2.2) Second tab: select controller(s) you want to hide from all other apps (Steam, ...)
 
-## 3. Check the box "*Enable device hiding*"
+## 3. Check the box "**Enable device hiding**"
 
 ## 4. Enjoy 🎉
 
