@@ -28,7 +28,7 @@
 
 4.2) Set down the tag your want to write on your Proxmark
 
-4.3) Execute the previously copied commands one after the other starting from number 0 to number 63. ⚠️ I advise you **not to copy/paste everything at once**, I briked an NFC tag like that ⚠️
+4.3) Execute the previously copied commands one after the other starting from number 0 to number 63. ⚠️ I advise you **not to copy/paste everything at once**, I briked a NFC tag like that ⚠️
 
 ## 5. Enjoy 🎉
 
