@@ -1,4 +1,4 @@
-# How to use many free ProtonMail accounts
+# How to open many free ProtonMail accounts on Firefox startup
 
 ## 0. Context
 
@@ -25,7 +25,9 @@ This tutorial solves this problem. It was designed for **Firefox only** (*But ca
 ## 4. Activate external liks 
 
 4.1) Go to `about:config`
+
 4.2) Paste `network.protocol-handler.external.ext+container`
+
 4.3) **Set** a boolean value to `True`
 
 ## 5. Install "Open url in container" Firefox extension
@@ -36,7 +38,7 @@ This tutorial solves this problem. It was designed for **Firefox only** (*But ca
 
 6.1) Go to Firefox settings > Home page div
 6.2) To open an `URL` in a `Container` the value has to be : "ext+container:name=**Container**&url=**URL**. +
-If you have many containers to open (*which is the purpose of this tutorial*), each record has to be separate by a "|" character.
+If you have many containers to open (*which is the purpose of this tutorial*), each record has to be separate by a **" `|` "** character.
 
 6.3) Set (for example) this value :
 
