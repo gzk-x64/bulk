@@ -2,7 +2,11 @@
 
 ## 0. Context
 
-ProtonMail is super cool, but when you have several free accounts it's restrictive: no IMAP; not possible to associate several accounts into one etc.
+ProtonMail is super cool, but when you have several free accounts it's restrictive: 
+
+- no IMAP 
+- not possible to associate several accounts into one
+- etc.
 
 This tutorial solves this problem. It was designed for **Firefox only** (*But can definitely be reproduced on Chrome*).
 
